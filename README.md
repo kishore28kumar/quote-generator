@@ -1,3 +1,7 @@
+Preview:-
+
+![image](https://github.com/kishore28kumar/quote-generator/assets/139374121/9b9e8556-ea18-4849-afc1-738417787234)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
